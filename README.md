@@ -1,5 +1,7 @@
 # ZhuaTech VMS · 访客预约与通行管理
 
+[简体中文](README.md) | [English](README.en.md)
+
 ## 企业级访客与承包商通行治理
 
 新增身份、接待人、安全培训、承包商资质、受限区域和陪同策略检查，详见 [通行治理](docs/ENTERPRISE_ACCESS_GOVERNANCE.md)。
